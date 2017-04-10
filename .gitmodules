@@ -1,0 +1,6 @@
+[submodule "libA"]
+	path = libA
+	url = https://github.com/liquangang/libA.git
+[submodule "libB"]
+	path = libB
+	url = https://github.com/liquangang/libB.git
